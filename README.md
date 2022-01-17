@@ -11,7 +11,6 @@ const brunoid = {
       frontend: [React],
       database: [MySQL, PostgreSQL, SQLite, MongoDB],
       code: [Golang, Python, Ruby, Java, JS, TS, PHP, C, C++, Fortran]
-  },
-  hobby: "Music Macro Language"
+  }
 }
 ```
