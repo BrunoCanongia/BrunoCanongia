@@ -1,17 +1,18 @@
 #### :octopus: Hello, I’m Bruno Canongia aka Brunoid
-* :floppy_disk: occupation: fullstack developer
+* :floppy_disk: occupation: programmer / fullstack developer
 * :collision: education: physics - Universidade de Brasília (UnB)
-* :musical_keyboard: hobby: chiptune composer
+* :musical_keyboard: hobby: chiptune composer / game programmer
 ```javascript
 const brunoid = {
   pronouns: "he" | "him",
-  skill: "fullstack",
+  skill: "programming",
   technologies: {
       backend: [Golang, Express, Rails, PHP],
       frontend: [React],
       database: [MySQL, PostgreSQL, SQLite, MongoDB],
       toolkits: [GTK, JavaFX],
-      code: [Golang, Python, Ruby, Java, JS, TS, PHP, C, C++, Fortran]
+      code: [C, C++, Golang, Fortran, Python, Ruby, Java, JS, PHP],
+      games: [SFML, SDL, MML (MUCOM88)]
   }
 }
 ```
