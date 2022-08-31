@@ -12,7 +12,7 @@ const brunoid = {
       database: [PostgreSQL, MySQL, SQLite, MongoDB],
       toolkit: [GTK, JavaFX],
       code: [ASM, C, C++, Golang, Fortran, Python, Ruby, Java, JS, PHP],
-      deploy: [Git, Docker]
+      deploy: [Git, Docker],
       games: [SFML, SDL, MML (MUCOM88)]
   }
 }
