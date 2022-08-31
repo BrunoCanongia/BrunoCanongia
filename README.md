@@ -11,7 +11,7 @@ const brunoid = {
       frontend: [React, Vue],
       database: [MySQL, PostgreSQL, SQLite, MongoDB],
       toolkits: [GTK, JavaFX],
-      code: [C, C++, Golang, Fortran, Python, Ruby, Java, JS, PHP],
+      code: [ASM, C, C++, Golang, Fortran, Python, Ruby, Java, JS, PHP],
       deploy: [Git, Docker]
       games: [SFML, SDL, MML (MUCOM88)]
   }
