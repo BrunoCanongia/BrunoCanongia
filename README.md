@@ -9,7 +9,7 @@ const brunoid = {
   technologies: {
       backend: [Golang, FastAPI, Express, Rails, PHP],
       frontend: [React, Vue],
-      database: [MySQL, PostgreSQL, SQLite, MongoDB],
+      database: [PostgreSQL, MySQL, SQLite, MongoDB],
       toolkits: [GTK, JavaFX],
       code: [ASM, C, C++, Golang, Fortran, Python, Ruby, Java, JS, PHP],
       deploy: [Git, Docker]
