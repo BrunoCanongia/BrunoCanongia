@@ -1,6 +1,6 @@
 #### :octopus: Hello, I’m Bruno Canongia aka Brunoid
 * :floppy_disk: Occupation: Programmer / developer at Banco do Brasil
-* :collision: Education: Physics - Universidade de Brasília (UnB)
+* :man_student: Education: Physics - Universidade de Brasília (UnB)
 * :cn: Hobby: Chinese language (中文)
 ```javascript
 const brunoid = {
