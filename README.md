@@ -1,7 +1,7 @@
 #### :octopus: Hello, I’m Bruno Canongia aka Brunoid
-* :floppy_disk: occupation: Programmer at Banco do Brasil
-* :collision: education: Physics - Universidade de Brasília (UnB)
-* :musical_keyboard: Hobby: chiptune composer / game programmer
+* :floppy_disk: Occupation: Programmer at Banco do Brasil
+* :collision: Education: Physics - Universidade de Brasília (UnB)
+* :musical_keyboard: Hobby: Chinese language (中文)
 ```javascript
 const brunoid = {
   pronouns: "he" | "him",
