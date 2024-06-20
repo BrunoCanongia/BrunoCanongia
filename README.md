@@ -8,7 +8,8 @@ const brunoid = {
   skill: "programming",
   technologies: {
       backend: [Golang, FastAPI, Express, Rails, PHP],
-      frontend: [React, Vue],
+      frontend: [Angular, React, Vue],
+      mainframe: [z/OS],
       database: [PostgreSQL, MySQL, SQLite, MongoDB],
       toolkit: [GTK, JavaFX],
       code: [ASM, C, C++, Golang, Fortran, Python, Ruby, Java, JS, PHP],
